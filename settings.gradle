@@ -1,0 +1,1 @@
+include ':app', ':opencv_3_4_3lib', ':image-manipulations'
